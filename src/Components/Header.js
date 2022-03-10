@@ -56,7 +56,7 @@ function Header() {
               role="button"
               aria-expanded="false"
             >
-              Discover
+              Manage
             </a>
             <ul class="dropdown-menu">
               <li>
